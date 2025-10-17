@@ -192,6 +192,10 @@ and first_name ='Michael';
 ```
 
 **Output:**
-![image](https://github.com/user-attachments/assets/1dc57635-b5d2-4fb7-9350-c8fdce99a768)
+![image](https://github.com/user-attachments/assets/1dc57635-b5d2-4fb7-9350-c8fdce99a768) 
+
+**Result**
+Thus, the SQL queries to implement DML commands have been executed successfully.
+
 
 
